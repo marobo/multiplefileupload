@@ -6,7 +6,12 @@ __pycache__/
 # C extensions
 *.so
 *.pyc
-
+*.log
+*.pot
+*/*/*/__pycache__/
+*/*/__pycache__/
+*/__pycache__/
+*.DS_Store
 # Distribution / packaging
 .Python
 build/
